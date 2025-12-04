@@ -1335,7 +1335,7 @@ He probado a realizar un pull de la imagen que se encuentra almacenada en Docker
 ## Ejecución con Docker Compose
 He probado a ejecutar Docker Compose haciendo uso de la imagen que se encuentra en Docker Hub, lo cual me ha funcionado correctamente, he conseguido que siga funcionando aún habiendo hecho los cambios del `docker-compose.yml`
 
-
+![Pull](./images/captura-final.png)
 
 ## Conclusión final
-Finalmente he conseguido crear la imagen, subirla a Docker Hub, hacer que el docker-compose funcione con esa imagen de docker-hub
+Finalmente he conseguido crear la imagen, subirla a Docker Hub, hacer que el docker-compose funcione con esa imagen de docker-hub, creo que lo tengo practicamente todo.
