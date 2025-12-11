@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: jesuuslopeez/springbootu2:latest
+          tags: username/springbootu2:latest
